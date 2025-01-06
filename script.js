@@ -33,7 +33,7 @@ function myMenuFunction(){
 
 /* ----- TYPING EFFECT ----- */
  let typingEffect = new Typed(".typedText",{
-    strings : ["a Developer","an Intern"],
+    strings : ["Jai Kishan"],
     loop : true,
     typeSpeed : 80, 
     backSpeed : 80,
@@ -115,3 +115,5 @@ function scrollActive() {
 }
 
 window.addEventListener('scroll', scrollActive)
+
+
